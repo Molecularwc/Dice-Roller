@@ -17,13 +17,13 @@ The following **required** functionality is complete:
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
+* [X] Added more aesthetically pleasing dice
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='dice_roller_demo.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
+<img src='dice_roller_demo_newer.gif' title='DiceRoller animated demo' alt='DiceRoller demo' />
 
 ## Notes
 
