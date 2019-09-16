@@ -4,7 +4,7 @@ An Android application that simulates a dice roll.
 
 Submitted by: Richard Salvaty
 
-Time spent: 3 Hours
+Time spent: 4 Hours
 
 ## User Stories
 
