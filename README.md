@@ -4,7 +4,7 @@ An Android application that simulates a dice roll.
 
 Submitted by: Richard Salvaty
 
-Time spent: <3 Hours>
+Time spent: 3 Hours
 
 ## User Stories
 
@@ -31,7 +31,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-Copyright 2019 <Richard Salvaty>
+Copyright 2019 Richard Salvaty
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
