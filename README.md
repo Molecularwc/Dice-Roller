@@ -27,7 +27,8 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The only challenge I faced was getting a handle on the Kotlin language. I had also planned on adding a spot 
+to show the previous roll results, but I just couldn't get it to work for me so it was excluded fr now.
 
 ## License
 
